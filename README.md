@@ -1,1 +1,1 @@
-Shopping-Mall-Management-System-Employee-Entity-Final-Project-Capgemini
+Shopping-Mall-Management-System-Employee-Entity-Final-Project-Edubridge-Capgemini
